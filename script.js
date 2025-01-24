@@ -1,11 +1,12 @@
 // ペットの画像リスト
 const images = [
-{ src: "IMG_4299.jpeg", caption: "ウイ - 写真1" },
-{ src: "IMG_6228.jpeg", caption: "ウイ - 写真2" },
-{ src: "IMG_7237.jpeg", caption: "ウイ - 写真3" },
-{ src: "IMG_6235.jpeg", caption: "エレ - 写真1" },
-{ src: "IMG_6526.jpeg", caption: "エレ - 写真2" },
-{ src: "IMG_7343.jpeg", caption: "エレ - 写真3" },
+IMG_4299.JPEG
+{ src: "IMG_4299.JPEG", caption: "ウイ - 写真1" },
+{ src: "IMG_6228.JPEG", caption: "ウイ - 写真2" },
+{ src: "IMG_7237.JPEG", caption: "ウイ - 写真3" },
+{ src: "IMG_6235.JPEG", caption: "エレ - 写真1" },
+{ src: "IMG_6526.JPEG", caption: "エレ - 写真2" },
+{ src: "IMG_7343.JPEG", caption: "エレ - 写真3" },
 ];
 
 let currentIndex = 0; // 現在のスライドインデックス
