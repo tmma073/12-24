@@ -1,6 +1,5 @@
 // ペットの画像リスト
 const images = [
-IMG_4299.JPEG
 { src: "IMG_4299.JPEG", caption: "ウイ - 写真1" },
 { src: "IMG_6228.JPEG", caption: "ウイ - 写真2" },
 { src: "IMG_7237.JPEG", caption: "ウイ - 写真3" },
