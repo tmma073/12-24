@@ -1,3 +1,25 @@
 h2{color:black;}
 
-body{background-color:#eaf4ff;}
+body {
+text-align: center;
+background-color: #eaf4ff;
+margin: 0; }
+
+.slideshow {
+position: relative;
+width: 80%;
+max-width: 600px;
+margin: 50px auto;
+border: 4px solid #ccc;
+border-radius: 10px;
+overflow: hidden;
+background-color: #eaf4ff; }
+
+img {
+width: 100%; }
+
+#caption {
+padding: 10px;
+background: rgba(0, 0, 0, 0.6);
+color: white;
+font-size: 16px; }
