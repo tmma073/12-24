@@ -2,6 +2,7 @@ h2{color:black;}
 
 body {
     font-family: Arial, sans-serif;
+     background-color: #add8e6;
 }
 
 .slideshow {
@@ -19,7 +20,7 @@ body {
 #caption {
     text-align: center;
     padding: 10px;
-    background-color: #add8e6;
-    color: #000;
+    background-color: #000;
+    color: #fff;
 }
 
