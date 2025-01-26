@@ -1,7 +1,7 @@
 //タイマーを使ったスライドショーの関数
 function スライドショー開始(petId) {
 const petContainer = document.getElementById(petId);
-const images = petContainer.getElementByTagName("img");
+const images = petContainer.getElementsByTagName("img");
 let currentIndex = 0;
 
 setInterval(() => {
